@@ -1,0 +1,9 @@
+target/
+../.DS_Store
+munch-output/
+text8
+munch-output.tar.gz
+munch*.tar.gz
+munch-aws-out*
+.swp
+.idea

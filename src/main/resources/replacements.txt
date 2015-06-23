@@ -1,0 +1,3 @@
+US->USA
+BR->Bundesrat
+F1->Formel_1
